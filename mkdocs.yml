@@ -1,0 +1,8 @@
+site_name: Bluespec SystemVerilog Documentations
+
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
+
+theme:
+  name: material
