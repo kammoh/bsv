@@ -1,5 +1,3 @@
-## Lexical elements
-
 BSV has the same basic lexical elements as Verilog.
 
 ### Whitespace and comments

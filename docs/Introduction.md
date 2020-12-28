@@ -1,5 +1,3 @@
-## Introduction
-
 Bluespec SystemVerilog (BSV) is aimed at hardware designers who are using or expect to use Verilog
 [IEE05], VHDL [IEE02], SystemVerilog [IEE13], or SystemC [IEE12] to design ASICs or FPGAs. It
 is also aimed at people creating _synthesizable_ models, transactors, and verification components to
